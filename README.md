@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tazawa2002&theme=2077)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tazawa2002&theme=onedark)](https://github-profile-trophy.vercel.app/?username=tazawa2002&theme=tokyonight)
+
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazawa2002&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tazawa2002&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+
+[![github-chart](https://github-chart.vercel.app/api?user=tazawa2002)](https://github.com/tazawa2002/github-chart)
